@@ -60,26 +60,26 @@
 ---
 
 ### 🛠 Tech Stack
-![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white&style=flat) 
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=flat) 
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=flat) 
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white&style=flat) 
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white&style=flat) 
-![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws&logoColor=white&style=flat) 
-![WordPress](https://img.shields.io/badge/WordPress-blue?logo=wordpress&logoColor=white&style=flat) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&logoColor=white&style=flat) 
-![JWT](https://img.shields.io/badge/JWT-yellow?logo=jsonwebtokens&logoColor=black&style=flat) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white&style=flat) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-teal?logo=tailwindcss&logoColor=white&style=flat) 
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white&style=flat) 
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white&style=flat) 
-![Sass](https://img.shields.io/badge/Sass-pink?logo=sass&logoColor=white&style=flat) 
-![shadcn/ui](https://img.shields.io/badge/shadcn--ui-purple?style=flat) 
-![Agile Scrum](https://img.shields.io/badge/Agile_Scrum-red?style=flat) 
-![Swift](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white&style=flat) 
-![UIKit](https://img.shields.io/badge/UIKit-lightgrey?style=flat) 
-![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white&style=flat) 
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white&style=for-the-badge) 
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge) 
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=for-the-badge) 
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white&style=for-the-badge) 
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white&style=for-the-badge) 
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws&logoColor=white&style=for-the-badge) 
+![WordPress](https://img.shields.io/badge/WordPress-blue?logo=wordpress&logoColor=white&style=for-the-badge) 
+![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&logoColor=white&style=for-the-badge) 
+![JWT](https://img.shields.io/badge/JWT-yellow?logo=jsonwebtokens&logoColor=black&style=for-the-badge) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white&style=for-the-badge) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-teal?logo=tailwindcss&logoColor=white&style=for-the-badge) 
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white&style=for-the-badge) 
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white&style=for-the-badge) 
+![Sass](https://img.shields.io/badge/Sass-pink?logo=sass&logoColor=white&style=for-the-badge) 
+![shadcn/ui](https://img.shields.io/badge/shadcn--ui-purple?style=for-the-badge) 
+![Agile Scrum](https://img.shields.io/badge/Agile_Scrum-red?style=for-the-badge) 
+![Swift](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white&style=for-the-badge) 
+![UIKit](https://img.shields.io/badge/UIKit-lightgrey?style=for-the-badge) 
+![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white&style=for-the-badge) 
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge)
 
 
 ---
@@ -90,7 +90,4 @@
 ---
 
 ### ✨ Signature Tagline
-*“In the world of code, I found my rhythm.  
-Every bug is a challenge, every commit a victory.  
-Lines of logic, loops, and functions…  
-This is my stage, and I am the coder of my own story.”* 💻🎬
+*“In the world of code, I found my rhythm.”* 💻
