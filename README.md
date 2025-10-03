@@ -84,8 +84,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Shumayl's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdShumayl&show_icons=true&theme=tokyonight)
 
 ---
 
