@@ -14,24 +14,28 @@
 - **[Colibri Travel](https://www.colibri-travel.de/)**  
 
 **Achievements:**  
-- Migrated legacy PHP/Yii portals to **React & Next.js**, improving load speed by **45%**.  
-- Unified **UI/UX across platforms**, increasing **customer satisfaction**.  
-- Deployed using **AWS EC2 & Cloudflare DNS**, ensuring **99.9% uptime**.  
+- Migrated legacy **PHP/Yii portals → React & Next.js**, boosting **load speed by 45%** ⚡  
+- Unified **UI/UX across all platforms**, enhancing **customer satisfaction** 🎨  
+- Deployed on **AWS EC2** with **Cloudflare DNS**, achieving **99.9% uptime** ☁️  
 
-#### CLC UK Website Enhancement
-- **[CLC UK](https://www.clc-uk.org/)**  
+---
+
+#### 🌐 CLC UK Website Enhancement
+**Project:**  
+- [CLC UK](https://www.clc-uk.org/)  
 
 **Achievements:**  
-- Improved **front-end performance, mobile responsiveness & cross-browser compatibility**, reducing **bounce rate by 15%**.  
-- Enhanced **developer workflows** with custom themes & plugins, improving **delivery speed by 30%**.  
-- Developed pages using **WordPress Page Builder (Visual Composer)**.  
+- Optimized **front-end performance, mobile responsiveness & cross-browser compatibility**, reducing **bounce rate by 15%** 📉  
+- Enhanced developer workflows with **custom themes & plugins**, increasing **delivery speed by 30%** ⚙️  
+- Built pages using **WordPress Page Builder (Visual Composer)** 🛠️  
 
-#### Current Project: AI Career Coach
-- Working on a **GEN AI-based project** to build an **AI Career Coach**:  
-  - Provides insights for multiple tech fields updated weekly  
-  - Generates **ATS-friendly resumes & cover letters**  
-  - Guides **interview preparation** as per field of interest  
+---
 
+#### 🤖 Current Project: AI Career Coach
+- Developing a **GEN AI-based project**:  
+  - Provides **weekly updated insights** for multiple tech fields 📊  
+  - Generates **ATS-friendly resumes & cover letters** 📝  
+  - Guides **personalized interview preparation** based on the field of interest 🎯 
 ---
 
 ### 💻 Personal & Internship Projects
