@@ -1,5 +1,5 @@
 ### Hey 👋 I'm Shumayl
-🚀 Full Stack Developer | MERN + Next.js | Mongo Db& MySql | Cloud & DevOps Enthusiast  
+🚀 Full Stack Developer | MERN + Next.js | Mongo DB & MySql | Cloud & DevOps Enthusiast  
 💡 Passionate about building scalable web apps & improving user experiences  
 🎯 Always learning, always shipping, always innovating  
 
