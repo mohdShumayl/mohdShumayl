@@ -84,8 +84,5 @@
 
 ---
 
-
----
-
 ### ✨ Signature Tagline
 *“In the world of code, I found my rhythm.”* 💻
